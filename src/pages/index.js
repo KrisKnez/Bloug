@@ -8,6 +8,10 @@ const IndexPage = () => {
     return (
         <StandardTemplate>
             <Post></Post>
+            <Post></Post>
+            <Post></Post>
+            <Post></Post>
+            <Post></Post>
         </StandardTemplate>
     );
 };
